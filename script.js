@@ -4,7 +4,6 @@ document.querySelector('.menu').addEventListener('click', () => {
 	})
 })
 
-
 const icons = document.querySelectorAll('.section-1-icons i')
 let i = 1
 
